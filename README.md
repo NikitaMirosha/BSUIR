@@ -1,7 +1,7 @@
-# Belarusian State University of Informatics and Radioelectronics<br> Faculty of Computer Systems and Networks<br> Specialty of Computer Machines, Systems and Networks
+<h3>Belarusian State University of Informatics and Radioelectronics<br> Faculty of Computer Systems and Networks<br> Specialty of Computer Machines, Systems and Networks</h3>
 
-<h6>This repository contains laboratory work, coursework and another projects</h6><br>
----
+<h5>This repository contains laboratory work, coursework and another projects</h5><br>
+
 <details>
 <summary>◾️ Laboratory work</summary>
 
