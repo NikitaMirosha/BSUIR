@@ -3,9 +3,7 @@
 <h4>This repository contains laboratory work, coursework and another projects</h4>
 <hr>
 <details>
-<summary>Laboratory work</summary>
-
+<summary><b>Laboratory work</b></summary>
 - [**Theoretical foundations of computer networks**](https://github.com/NikitaMirosha/TFCN-Labs) `Qt` `C++`
-
 </details>
 
