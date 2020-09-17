@@ -30,3 +30,14 @@
 
 </details>
 
+<details>
+<summary>Games</summary>
+
+- [**Snake**](https://github.com/NikitaMirosha/Snake-Game) `VS` `C`
+
+- [**2048**](https://github.com/NikitaMirosha/2048-Game) `Eclipce` `Java` `Swing`
+
+</details>
+
+<hr>
+
