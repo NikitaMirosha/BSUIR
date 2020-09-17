@@ -19,6 +19,5 @@
 
 - [**System software for computing machines**](https://github.com/NikitaMirosha/SPO-Labs) `C++` `Linux` `WinAPI`
 
-- [**System software for computing machines**](https://github.com/NikitaMirosha/SPO-Labs) `C++` `Linux` `WinAPI`
 </details>
 
