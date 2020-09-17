@@ -21,3 +21,12 @@
 
 </details>
 
+<details>
+<summary>Coursework</summary>
+
+- [**Bank System**](https://github.com/NikitaMirosha/Bank-System-Coursework) `VS` `C++`
+
+- [**System Explorer**](https://github.com/NikitaMirosha/System-Explorer-Coursework) `VS` `C++` `WinAPI`
+
+</details>
+
