@@ -4,6 +4,7 @@
 <hr>
 <details>
 <summary>Laboratory work</summary>
+
 - [**Theoretical foundations of computer networks**](https://github.com/NikitaMirosha/TFCN-Labs) `Qt` `C++`
 </details>
 
