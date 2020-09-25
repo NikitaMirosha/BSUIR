@@ -39,5 +39,12 @@
 
 </details>
 
+<details>
+<summary>Web Apps</summary>
+
+- [**BarTraveler**](https://github.com/NikitaMirosha/BarTraveler) `Python` `Linux`
+
+</details>
+
 <hr>
 
