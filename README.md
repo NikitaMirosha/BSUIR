@@ -11,7 +11,7 @@
 
 - [**Structural and functional organization of a computer**](https://github.com/NikitaMirosha/SAFO-Labs) `Quartus II`
 
-- [**Software development and testing technologies**](https://github.com/NikitaMirosha/SDTT-Labs) `Java` `JUnit` `Git`
+- [**Software development and testing technologies**](https://github.com/NikitaMirosha/SDTT-Labs) `Java` `Python` `Git`
 
 - [**Architecture of personal computer**](https://github.com/NikitaMirosha/APC-Labs) `C` `C++` `Assembler` `DOS`
 
