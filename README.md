@@ -7,7 +7,7 @@
 
 - [**Theoretical foundations of computer networks**](https://github.com/NikitaMirosha/TFCN-Labs) `C++` `Qt` `Python` `Java`
 
-- [**Interfaces and peripheral devices**](https://github.com/NikitaMirosha/IAPD-Labs) `C++`
+- [**Interfaces and peripheral devices**](https://github.com/NikitaMirosha/IAPD-Labs) `C++` `Qt`
 
 - [**Structural and functional organization of a computer**](https://github.com/NikitaMirosha/SAFO-Labs) `Quartus II`
 
